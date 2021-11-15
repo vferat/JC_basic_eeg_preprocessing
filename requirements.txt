@@ -1,5 +1,7 @@
 numpy
 scipy
 mne
+matplotlib
+ipympl
 pooch
 tqdm
